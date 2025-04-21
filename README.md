@@ -45,8 +45,6 @@ Vrinda Store aims to create an **Annual Sales Report for 2022** to better unders
 
 ![vrinda store analysis dashboard](https://github.com/Pratiksurya28/Vrinda--Store-Data-Analysis-Dashboard/blob/main/image.png)
 
-> 🔗 *Explore the interactive dashboard in the file: `Vrinda Store Dashboard Analysis.xlsx`*
-
 ---
 
 ## 📌 Key Insights
