@@ -81,12 +81,5 @@ This targeted approach can help drive more conversions and improve ROI in 2023.
 - Pivot Tables, Charts
 - Slicers, Timelines, and Dropdowns
 
----
 
-## 👩‍💻 Author
-
-Created by [Your Name]  
-📫 Feel free to connect with me for feedback or collaboration.
-
----
 
