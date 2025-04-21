@@ -43,8 +43,7 @@ Vrinda Store aims to create an **Annual Sales Report for 2022** to better unders
 ---
 
 ## 📊 Dashboard Overview
-
-> 🔗 *View the interactive dashboard inside the Excel file: `https://github.com/Pratiksurya28/Vrinda--Store-Data-Analysis-Dashboard/blob/main/image.png'
+![vrinda store analysis dashboard](https://github.com/Pratiksurya28/Vrinda--Store-Data-Analysis-Dashboard/blob/main/image.png)
 - Gender-wise and Age-wise analysis
 - Monthly Sales & Order trends
 - Sales by Platform (Amazon, Flipkart, Myntra)
